@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Marvel Characters</string>
+    <string name="search_view_filter_by_name_hint">Filter by name</string>
+    <string name="no_data_to_show">No characters found</string>
+    <string name="fragment_comic_carousel_title">Appears in comics</string>
+    <string name="something_happened">something happened</string>
+    <string name="content_description_image_of_the_character">Image of the character</string>
+    <string name="content_description_error_state_icon">Error state icon</string>
+    <string name="something_happened_tap_to_retry">Please tap to retry!</string>
+    <string name="empty_state_message">There is no data to show</string>
+    <string name="carousel_series_title">Series</string>
+    <string name="lorem_ipsum_long_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="lorem_ipsum_title">Peter Parker</string>
+    <string name="carousel_events_title">Events where character is present</string>
+</resources>
